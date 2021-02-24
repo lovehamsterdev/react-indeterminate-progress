@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-indeterminate-progress/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-indeterminate-progress/static/js/main.7b41d596.chunk.js",
+    "main.js.map": "/react-indeterminate-progress/static/js/main.7b41d596.chunk.js.map",
+    "runtime-main.js": "/react-indeterminate-progress/static/js/runtime-main.580faeed.js",
+    "runtime-main.js.map": "/react-indeterminate-progress/static/js/runtime-main.580faeed.js.map",
+    "static/js/2.5fee2fa7.chunk.js": "/react-indeterminate-progress/static/js/2.5fee2fa7.chunk.js",
+    "static/js/2.5fee2fa7.chunk.js.map": "/react-indeterminate-progress/static/js/2.5fee2fa7.chunk.js.map",
+    "static/js/3.109465fe.chunk.js": "/react-indeterminate-progress/static/js/3.109465fe.chunk.js",
+    "static/js/3.109465fe.chunk.js.map": "/react-indeterminate-progress/static/js/3.109465fe.chunk.js.map",
+    "index.html": "/react-indeterminate-progress/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-indeterminate-progress/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5fee2fa7.chunk.js.LICENSE.txt": "/react-indeterminate-progress/static/js/2.5fee2fa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.580faeed.js",
+    "static/js/2.5fee2fa7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7b41d596.chunk.js"
+  ]
+}
